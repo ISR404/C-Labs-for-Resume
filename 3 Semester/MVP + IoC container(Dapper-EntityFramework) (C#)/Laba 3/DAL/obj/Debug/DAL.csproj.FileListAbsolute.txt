@@ -1,0 +1,38 @@
+C:\Users\Illidan StormRage\source\repos\S3L2\DAL\bin\Debug\DAL.dll.config
+C:\Users\Illidan StormRage\source\repos\S3L2\DAL\bin\Debug\DAL.dll
+C:\Users\Illidan StormRage\source\repos\S3L2\DAL\bin\Debug\DAL.pdb
+C:\Users\Illidan StormRage\source\repos\S3L2\DAL\bin\Debug\Domain.dll
+C:\Users\Illidan StormRage\source\repos\S3L2\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Illidan StormRage\source\repos\S3L2\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Illidan StormRage\source\repos\S3L2\DAL\bin\Debug\Domain.pdb
+C:\Users\Illidan StormRage\source\repos\S3L2\DAL\bin\Debug\Domain.dll.config
+C:\Users\Illidan StormRage\source\repos\S3L2\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Illidan StormRage\source\repos\S3L2\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Illidan StormRage\source\repos\S3L2\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Illidan StormRage\source\repos\S3L2\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Illidan StormRage\source\repos\S3L2\DAL\obj\Debug\DAL.dll
+C:\Users\Illidan StormRage\source\repos\S3L2\DAL\obj\Debug\DAL.pdb
+C:\Users\Illidan StormRage\source\repos\S3L2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Illidan StormRage\source\repos\S3L2\DAL\bin\Debug\Dapper.dll
+C:\Users\Illidan StormRage\source\repos\S3L2\DAL\bin\Debug\Dapper.xml
+C:\Users\Illidan StormRage\source\repos\S3L2\DAL\bin\Debug\Ninject.dll
+C:\Users\Illidan StormRage\source\repos\S3L2\DAL\bin\Debug\Ninject.xml
+C:\Users\Illidan StormRage\Desktop\Laba 3\DAL\bin\Debug\DAL.dll.config
+C:\Users\Illidan StormRage\Desktop\Laba 3\DAL\bin\Debug\DAL.dll
+C:\Users\Illidan StormRage\Desktop\Laba 3\DAL\bin\Debug\DAL.pdb
+C:\Users\Illidan StormRage\Desktop\Laba 3\DAL\bin\Debug\Dapper.dll
+C:\Users\Illidan StormRage\Desktop\Laba 3\DAL\bin\Debug\Domain.dll
+C:\Users\Illidan StormRage\Desktop\Laba 3\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Illidan StormRage\Desktop\Laba 3\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Illidan StormRage\Desktop\Laba 3\DAL\bin\Debug\Ninject.dll
+C:\Users\Illidan StormRage\Desktop\Laba 3\DAL\bin\Debug\Domain.pdb
+C:\Users\Illidan StormRage\Desktop\Laba 3\DAL\bin\Debug\Domain.dll.config
+C:\Users\Illidan StormRage\Desktop\Laba 3\DAL\bin\Debug\Dapper.xml
+C:\Users\Illidan StormRage\Desktop\Laba 3\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Illidan StormRage\Desktop\Laba 3\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Illidan StormRage\Desktop\Laba 3\DAL\bin\Debug\Ninject.xml
+C:\Users\Illidan StormRage\Desktop\Laba 3\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Illidan StormRage\Desktop\Laba 3\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Illidan StormRage\Desktop\Laba 3\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Illidan StormRage\Desktop\Laba 3\DAL\obj\Debug\DAL.dll
+C:\Users\Illidan StormRage\Desktop\Laba 3\DAL\obj\Debug\DAL.pdb
